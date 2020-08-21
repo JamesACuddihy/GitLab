@@ -8,3 +8,5 @@ To refactor Horiseon's webpage to make it accessible, ensuring all application l
 ## Website
 
 ## Landing Page Screenshot
+
+![](assets/images/Horiseon Social Solution Services, Inc)
