@@ -9,3 +9,4 @@ To refactor Horiseon's webpage to make it accessible, ensuring all application l
 https://jamesacuddihy.github.io/Horiseon-Social-Solution-Services-Inc./
 
 ## Landing Page Screenshot
+![screenshot](https://github.com/JamesACuddihy/Horiseon-Social-Solution-Services-Inc./blob/master/assets/images/Horiseon%20Social%20Solution%20Services.png)
