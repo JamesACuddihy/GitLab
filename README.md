@@ -6,7 +6,6 @@ Search Engine Optimization, Online Reputation Management and Social Media Market
 To refactor Horiseon's webpage to make it accessible, ensuring all application links function. Moreover, consolidate and organize it's existing code to follow semantic structure for long term sustainability.
 
 ## Website
+https://jamesacuddihy.github.io/Horiseon-Social-Solution-Services-Inc./
 
 ## Landing Page Screenshot
-
-![](assets/images/Horiseon Social Solution Services.png)
